@@ -540,4 +540,18 @@
 		"store_text"		"#TF_Trial_MainMenu_Upsell_Spy"
 		"holiday_restriction"	"christmas"
 	}
+	"summer_bbq"
+	{
+		"image"	"../console/characters/bbq_summer2023"
+		"item_url"	"demoman"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
+		"holiday_restriction"	"summer"
+	}
+	"summer_bbq_blu"
+	{
+		"image"	"../console/characters/bbq_summer2023_blu"
+		"item_url"	"demoman"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
+		"holiday_restriction"	"summer"
+	}
 }

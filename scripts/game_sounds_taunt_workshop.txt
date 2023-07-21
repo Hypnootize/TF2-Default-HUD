@@ -4866,6 +4866,102 @@
 	}
 }
 
+"spy_taunt_tuefort_tango_intro"
+{
+	"channel" 			"CHAN_VOICE"
+	"volume" 			"VOL_NORM"
+	"pitch" 			"PITCH_NORM"
+	"soundlevel" 			"SNDLVL_95dB"
+	"rndwave"
+	{
+		"wave"			"vo/taunts/spy/spy_taunt_cong_int_01.mp3"
+		"wave"			"vo/taunts/spy/spy_taunt_cong_int_05.mp3"
+		"wave"			"vo/taunts/spy/spy_taunt_cong_int_11.mp3"
+	}
+}
+
+"spy_taunt_tuefort_tango_a1"
+{
+	"channel" 			"CHAN_VOICE"
+	"volume" 			"VOL_NORM"
+	"pitch" 			"PITCH_NORM"
+	"soundlevel" 			"SNDLVL_95dB"
+	"rndwave"
+	{
+		"wave"			"vo/taunts/spy/spy_aerobic_pos_15.mp3"
+		"wave"			"vo/taunts/spy/spy_taunt_cong_fun_09.mp3"
+		"wave"			"vo/taunts/spy/spy_taunt_cong_fun_03.mp3"
+		"wave"			"vo/taunts/spy/spy_taunt_cong_fun_05.mp3"
+		"wave"			"vo/taunts/spy/spy_taunt_cong_fun_06.mp3"
+		"wave"			"vo/taunts/spy/spy_taunt_flip_fun_07.mp3"
+		"wave"			"vo/taunts/spy/spy_taunt_flip_end_16.mp3"
+	}
+}
+
+"spy_taunt_tuefort_tango_a2"
+{
+	"channel" 			"CHAN_VOICE"
+	"volume" 			"VOL_NORM"
+	"pitch" 			"PITCH_NORM"
+	"soundlevel" 		"SNDLVL_95dB"
+	"rndwave"
+	{
+		"wave"			"vo/taunts/spy/spy_aerobic_pos_41.mp3"
+		"wave"			"vo/spy_laughevil02.mp3"
+		"wave"			"vo/taunts/spy/spy_taunt_cong_fun_08.mp3"
+		"wave"			"vo/taunts/spy/spy_taunt_cong_fun_10.mp3"
+		"wave"			"vo/taunts/spy/spy_taunt_flip_fun_01.mp3"
+		"wave"			"vo/taunts/spy/spy_taunt_flip_fun_02.mp3"
+		"wave"			"vo/taunts/spy/spy_taunt_head_exert_01.mp3"
+	}
+}
+
+"spy_taunt_tuefort_tango_outro_a"
+{
+	"channel" 			"CHAN_VOICE"
+	"volume" 			"VOL_NORM"
+	"pitch" 			"PITCH_NORM"
+	"soundlevel" 		"SNDLVL_95dB"
+	"rndwave"
+	{
+		"wave"			"vo/taunts/spy/spy_taunt_flip_end_12.mp3"
+		"wave"			"vo/taunts/spy/spy_taunt_flip_end_07.mp3"
+	}
+}
+
+"spy_taunt_tuefort_tango_outro_b"
+{
+	"channel" 			"CHAN_VOICE"
+	"volume" 			"VOL_NORM"
+	"pitch" 			"PITCH_NORM"
+	"soundlevel" 		"SNDLVL_95dB"
+	"rndwave"
+	{
+		"wave"			"vo/spy_jeers06.mp3"
+		"wave"			"vo/spy_jeers05.mp3"
+		"wave"			"vo/spy_negativevocalization01.mp3"
+		"wave"			"vo/spy_negativevocalization02.mp3"
+		"wave"			"vo/spy_negativevocalization06.mp3"
+		"wave"			"vo/spy_negativevocalization07.mp3"
+		"wave"			"vo/spy_negativevocalization08.mp3"
+	}
+}
+
+"spy_taunt_tuefort_tango_laugh"
+{
+	"channel" 			"CHAN_VOICE"
+	"volume" 			"VOL_NORM"
+	"pitch" 			"PITCH_NORM"
+	"soundlevel" 		"SNDLVL_95dB"
+	"rndwave"
+	{
+		"wave"			"vo/spy_laughshort03.mp3"
+		"wave"			"vo/spy_laughshort04.mp3"
+		"wave"			"vo/spy_laughshort05.mp3"
+		"wave"			"vo/spy_mvm_loot_common03.mp3"
+	}
+}
+
 "heavy_taunt_road_rager_intro"
 {
 	"channel" 			"CHAN_VOICE"
