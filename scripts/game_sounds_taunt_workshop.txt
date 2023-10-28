@@ -7168,6 +7168,34 @@
 		"wave"			"vo/taunts/medic/medic_taunt_admire_07.mp3"
 		"wave"			"vo/taunts/medic/medic_taunt_cong_fun_08.mp3"
 		"wave"			"vo/medic_mvm_wave_end06.mp3"
+		"wave"			"vo/taunts/medic/medic_trade_11.mp3"
 	}
 }
 
+"medic_taunt_burrowed_bones_start"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"			"PITCH_NORM"
+  "soundlevel"			"SNDLVL_95dB"
+  "wave"			"items/taunts/borrowed_bones/borrowed_bones_start.wav"
+}
+
+"medic_taunt_burrowed_bones_mid"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"			"PITCH_NORM"
+  "soundlevel"			"SNDLVL_95dB"
+  "wave"			"items/taunts/borrowed_bones/borrowed_bones_mid.wav"
+}
+
+
+"medic_taunt_burrowed_bones_end"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"			"PITCH_NORM"
+  "soundlevel"			"SNDLVL_95dB"
+  "wave"			"items/taunts/borrowed_bones/borrowed_bones_end.wav"
+}
