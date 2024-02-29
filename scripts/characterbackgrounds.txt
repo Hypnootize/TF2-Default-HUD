@@ -554,70 +554,7 @@
 		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
 		"holiday_restriction"	"summer"
 	}
-	"winter2023_krampus1"
-	{
-		"image"	"../console/characters/xms2023_krampus"
-		"item_url"	"demoman"
-		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
-		"holiday_restriction"	"christmas"
-	}
-	"winter2023_krampus2"
-	{
-		"image"	"../console/characters/xms2023_krampus"
-		"item_url"	"demoman"
-		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
-		"holiday_restriction"	"christmas"
-	}
-	"winter2023_krampus3"
-	{
-		"image"	"../console/characters/xms2023_krampus"
-		"item_url"	"demoman"
-		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
-		"holiday_restriction"	"christmas"
-	}
-	"winter2023_krampus4"
-	{
-		"image"	"../console/characters/xms2023_krampus"
-		"item_url"	"demoman"
-		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
-		"holiday_restriction"	"christmas"
-	}
-	"winter2023_krampus5"
-	{
-		"image"	"../console/characters/xms2023_krampus"
-		"item_url"	"demoman"
-		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
-		"holiday_restriction"	"christmas"
-	}
-	"winter2023_krampus6"
-	{
-		"image"	"../console/characters/xms2023_krampus"
-		"item_url"	"demoman"
-		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
-		"holiday_restriction"	"christmas"
-	}
-	"winter2023_krampus7"
-	{
-		"image"	"../console/characters/xms2023_krampus"
-		"item_url"	"demoman"
-		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
-		"holiday_restriction"	"christmas"
-	}
-	"winter2023_krampus8"
-	{
-		"image"	"../console/characters/xms2023_krampus"
-		"item_url"	"demoman"
-		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
-		"holiday_restriction"	"christmas"
-	}
-	"winter2023_krampus9"
-	{
-		"image"	"../console/characters/xms2023_krampus"
-		"item_url"	"demoman"
-		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
-		"holiday_restriction"	"christmas"
-	}
-	"winter2023_krampus10"
+	"winter2023_krampus"
 	{
 		"image"	"../console/characters/xms2023_krampus"
 		"item_url"	"demoman"

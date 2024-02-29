@@ -554,4 +554,11 @@
 		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
 		"holiday_restriction"	"summer"
 	}
+	"winter2023_krampus"
+	{
+		"image"	"../console/characters/xms2023_krampus"
+		"item_url"	"demoman"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
+		"holiday_restriction"	"christmas"
+	}
 }
