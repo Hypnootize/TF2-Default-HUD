@@ -176,8 +176,6 @@
 		"brighttext"		"0"
 		"wrap"		"0"
 		"centerwrap"		"0"
-		"textinsetx"		"0"
-		"textinsety"		"0"
 		"auto_wide_tocontents"		"0"
 		"command"		"ShowThirdPartyAudioCredits"
 		"Default"		"1"

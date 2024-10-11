@@ -301,6 +301,44 @@
 		"option5"		"string"
 		"voteidx"		"long"
 	}
+	"gameui_activate"
+	{
+	}
+	"gameui_hide"
+	{
+	}
+	"single_player_death"
+	{
+	}
+	"weapon_equipped"
+	{
+		"class"			"string"
+		"entindex"		"long"
+	}
+	"ammo_pickup"
+	{
+		"ammo_index"	"long"
+		"amount"	"long"
+		"total"	"long"
+	}
+	"take_health"
+	{
+		"amount"	"long"
+		"total"	"long"
+	}
+	"take_armor"
+	{
+		"amount"	"long"
+		"total"	"long"
+	}
+	"enter_vehicle"
+	{
+		"vehicle"	"long" // entindex of the vehicle
+	}
+	"leave_vehicle"
+	{
+		"vehicle"	"long" // entindex of the vehicle
+	}
 
 //////////////////////////////////////////////////////////////////////
 // Replay events
