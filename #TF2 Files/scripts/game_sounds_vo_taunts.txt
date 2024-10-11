@@ -4721,7 +4721,9 @@
 	"rndwave"
 	{
 		"wave"			"vo/taunts/spy/spy_tnt_dosido_init04.mp3"
-    "wave"			"vo/taunts/spy/spy_tnt_nutkick_kick04.mp3"
+		"wave"			"vo/taunts/spy/spy_tnt_nutkick_kick04.mp3"
+		"wave"			"vo/taunts/spy/spy_tnt_nutkick_kick03.mp3"
+		"wave"			"vo/spy_laughhappy02.mp3"
 	}
 }
 
@@ -4733,8 +4735,10 @@
 	"soundlevel" 		"SNDLVL_95dB"
 	"rndwave"
 	{
-	  "wave"			"vo/taunts/spy/spy_tnt_nutkick_kick03.mp3"
-    "wave"			"vo/taunts/spy/spy_laughhappy02.mp3"
+		"wave"			"vo/taunts/spy/spy_tnt_dosido_init04.mp3"
+		"wave"			"vo/taunts/spy/spy_tnt_nutkick_kick04.mp3"
+		"wave"			"vo/taunts/spy/spy_tnt_nutkick_kick03.mp3"
+		"wave"			"vo/spy_laughhappy02.mp3"
 	}
 }
 "pyro_taunt_russian_rand"

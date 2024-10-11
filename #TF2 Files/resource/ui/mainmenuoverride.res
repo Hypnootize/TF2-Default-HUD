@@ -1711,127 +1711,112 @@
 				{
 					"0"
 					{
-						"item"		"Winter 2023 Cosmetic Key"
+						"item"		"Halloween 2024 Key"
 						"show_market"	"0"
 					}
 					"1"
 					{
-						"item"		"Winter 2023 Cosmetic Case"
+						"item"		"Halloween 2024 Case"
 						"show_market"	"1"
 					}
 					"2"
 					{
-						"item"		"Taunt: Cheers!"
+						"item"		"Scream Fortress 2024 War Paint Key"
 						"show_market"	"0"
 					}
 					"3"
 					{
-						"item"		"Taunt: Mourning Mercs"
-						"show_market"	"0"
+						"item"		"Scream Fortress 2024 War Paint Case"
+						"show_market"	"1"
 					}
 					"4"
 					{
-						"item"		"Taunt: Foul Play"
+						"item"		"Taunt: Crushing Headache"
 						"show_market"	"0"
 					}
 					"5"
 					{
-						"item"		"Map Token Snowtower"
+						"item"		"Taunt: Peace Out"
 						"show_market"	"0"
 					}
 					"6"
 					{
-						"item"		"Map Token Krampus"
+						"item"		"Taunt: Commending Clap"
 						"show_market"	"0"
 					}
 					"7"
 					{
-						"item"		"Map Token Haarp"
+						"item"		"Taunt: The Punchline"
 						"show_market"	"0"
 					}
 					"8"
 					{
-						"item"		"Map Token Brew"
+						"item"		"Map Token Toxic"
 						"show_market"	"0"
 					}
 					"9"
 					{
-						"item"		"Map Token Hacksaw"
+						"item"		"Map Token Darkmarsh"	
 						"show_market"	"0"
 					}
 					"10"
 					{
-						"item"		"Map Token Turbine Event"
+						"item"		"Map Token Freaky Fair"
 						"show_market"	"0"
 					}
 					"11"
 					{
-						"item"		"Map Token Carrier"
+						"item"		"Map Token Dynamite"
 						"show_market"	"0"
 					}
 					"12"
 					{
-						"item"		"Map Token Galleria"
+						"item"		"Map Token Circus"
 						"show_market"	"0"
 					}
 					"13"
 					{
-						"item"		"Map Token Emerge"
+						"item"		"Map Token Outburst"
 						"show_market"	"0"
 					}
 					"14"
 					{
-						"item"		"Map Token Camber"
+						"item"		"Map Token Blazehattan"
 						"show_market"	"0"
 					}
 					"15"
 					{
-						"item"		"Strange Filter: Snowtower (Community)"
+						"item"		"Strange Filter: Toxic (Community)"
 						"show_market"	"0"
 					}
 					"16"
 					{
-						"item"		"Strange Filter: Krampus (Community)"
+						"item"		"Strange Filter: Darkmarsh (Community)"
 						"show_market"	"0"
 					}
 					"17"
 					{
-						"item"		"Strange Filter: Haarp (Community)"
+						"item"		"Strange Filter: Freaky Fair (Community)"
 						"show_market"	"0"
 					}
 					"18"
 					{
-						"item"		"Strange Filter: Brew (Community)"
+						"item"		"Strange Filter: Dynamite (Community)"
 						"show_market"	"0"
 					}
 					"19"
 					{
-						"item"		"Strange Filter: Hacksaw (Community)"
+						"item"		"Strange Filter: Circus (Community)"
 						"show_market"	"0"
 					}
 					"20"
 					{
-						"item"		"Strange Filter: Turbine Event (Community)"
+						"item"		"Strange Filter: Outburst (Community)"
 						"show_market"	"0"
 					}
 					"21"
 					{
-						"item"		"Strange Filter: Carrier (Community)"
-						"show_market"	"0"
-					}
-					"22"
-					{
-						"item"		"Strange Filter: Galleria (Community)"
-						"show_market"	"0"
-					}
-					"23"
-					{
-						"item"		"Strange Filter: Emerge (Community)"
-						"show_market"	"0"
-					}
-					"24"
-					{
-						"item"		"Strange Filter: Camber (Community)"
+						"item"		"Strange Filter: Blazehattan (Community)"
 						"show_market"	"0"
 					}
 				}
@@ -2279,7 +2264,7 @@
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			
+			"RoundedCorners"	"10"
 			
 			"paintbackground"	"1"
 			

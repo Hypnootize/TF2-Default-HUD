@@ -556,9 +556,25 @@
 	}
 	"winter2023_krampus"
 	{
-		"image"	"../console/characters/xms2023_krampus"
+		"image"	"../console/characters/community/xms2023_krampus"
 		"item_url"	"demoman"
 		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
 		"holiday_restriction"	"christmas"
+	}
+	"hwn24_hale"
+	{
+		"image"	"../console/characters/community/hwn24_hale"
+		"item_url"	"demoman"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
+		"holiday_restriction"	"halloween_or_fullmoon"
+		"weight"	"30"
+	}
+	"hwn24_upgrades"
+	{
+		"image"	"../console/characters/community/hwn24_upgrades"
+		"item_url"	"demoman"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
+		"holiday_restriction"	"halloween_or_fullmoon"
+		"weight"	"30"
 	}
 }
