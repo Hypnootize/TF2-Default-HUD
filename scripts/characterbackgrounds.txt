@@ -567,7 +567,7 @@
 		"item_url"	"demoman"
 		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
 		"holiday_restriction"	"halloween_or_fullmoon"
-		"weight"	"30"
+		"weight"	"60"
 	}
 	"hwn24_upgrades"
 	{
@@ -575,6 +575,6 @@
 		"item_url"	"demoman"
 		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
 		"holiday_restriction"	"halloween_or_fullmoon"
-		"weight"	"30"
+		"weight"	"60"
 	}
 }
