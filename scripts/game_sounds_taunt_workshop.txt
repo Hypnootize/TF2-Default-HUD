@@ -8329,7 +8329,7 @@
 
 "spy_taunt_curtain_call_VO_01"
 {
-  "channel"			"CHAN_STATIC"
+  "channel"			"CHAN_VOICE"
   "volume"			"VOL_NORM"
   "pitch"			"PITCH_NORM"
   "soundlevel"			"SNDLVL_95dB"
@@ -8342,7 +8342,7 @@
 
 "spy_taunt_curtain_call_VO_02"
 {
-  "channel"			"CHAN_STATIC"
+  "channel"			"CHAN_VOICE"
   "volume"			"VOL_NORM"
   "pitch"			"PITCH_NORM"
   "soundlevel"			"SNDLVL_95dB"

@@ -28430,7 +28430,7 @@
 
 "halloween.wolf_01"
 {
-	"channel"		"CHAN_STATIC"
+	"channel"		"CHAN_VOICE"
 	"volume"    "1.000"
 	"soundlevel"		"SNDLVL_85dB"
 	"wave"		")vo/wolf_howl_01.mp3"
@@ -28438,7 +28438,7 @@
 
 "halloween.wolf_02"
 {
-	"channel"		"CHAN_STATIC"
+	"channel"		"CHAN_VOICE"
 	"volume"		"1.000"
 	"soundlevel"		"SNDLVL_85dB"
 	"wave"		")vo/wolf_howl_02.mp3"
@@ -28446,7 +28446,7 @@
 
 "halloween.wolf_03"
 {
-	"channel"		"CHAN_STATIC"
+	"channel"		"CHAN_VOICE"
 	"volume"		"1.000"
 	"soundlevel"		"SNDLVL_85dB"
 	"wave"		")vo/wolf_howl_03.mp3"
