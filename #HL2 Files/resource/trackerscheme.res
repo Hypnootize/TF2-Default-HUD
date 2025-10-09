@@ -480,7 +480,7 @@ Scheme
 //			}
 		}
 
-		"CloseCaption_Normal"
+		"CloseCaption"
 		{
 			"1"
 			{

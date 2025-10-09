@@ -751,7 +751,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"		"0"
-		"URLText"		"http://www.valvesoftware.com/privacy.html"
+		"URLText"		"https://store.steampowered.com/privacy_agreement/"
 		"underline"		"1"
 	}
 	"Divider1"

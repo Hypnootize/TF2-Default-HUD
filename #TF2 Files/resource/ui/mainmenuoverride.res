@@ -1711,87 +1711,77 @@
 				{
 					"0"
 					{
-						"item"		"Winter 2024 Cosmetic Key" 
+						"item"		"Halloween 2025 Key"
 						"show_market"	"0"
 					}
 					"1"
 					{
-						"item"		"Winter 2024 Cosmetic Case"
+						"item"		"Halloween 2025 Case"
 						"show_market"	"1"
 					}
 					"2"
 					{
-						"item"		"Taunt: Curtain Call"
+						"item"		"Taunt: Heartbreaker"
 						"show_market"	"0"
 					}
 					"3"
 					{
-						"item"		"Taunt: Peace!"
+						"item"		"Taunt: Healthcare Hog"
 						"show_market"	"0"
 					}
 					"4"
 					{
-						"item"		"Taunt: Fore-Head Slice"
+						"item"		"Taunt: Ring King"
 						"show_market"	"0"
 					}
 					"5"
 					{
-						"item"		"Map Token Overcast"
+						"item"		"Map Token Cowerhouse"
 						"show_market"	"0"
 					}
 					"6"
 					{
-						"item"		"Map Token Fortezza"
+						"item"		"Map Token Dusker"
 						"show_market"	"0"
 					}
 					"7"
 					{
-						"item"		"Map Token Penguin Peak"
+						"item"		"Map Token Afterlife"
 						"show_market"	"0"
 					}
 					"8"
 					{
-						"item"		"Map Token Patagonia"
+						"item"		"Map Token Devilcross"
 						"show_market"	"0"
 					}
 					"9"
 					{
-						"item"		"Map Token Cutter"
+						"item"		"Map Token Marshlands"
 						"show_market"	"0"
 					}
 					"10"
 					{
-						"item"		"Map Token Maul"
+						"item"		"Strange Filter: Cowerhouse (Community)"
 						"show_market"	"0"
 					}
 					"11"
 					{
-						"item"		"Strange Filter: Overcast (Community)"
+						"item"		"Strange Filter: Dusker (Community)"
 						"show_market"	"0"
 					}
 					"12"
 					{
-						"item"		"Strange Filter: Fortezza (Community)"
+						"item"		"Strange Filter: Afterlife (Community)"
 						"show_market"	"0"
 					}
 					"13"
 					{
-						"item"		"Strange Filter: Penguin Peak (Community)"
+						"item"		"Strange Filter: Devilcross (Community)"
 						"show_market"	"0"
 					}
 					"14"
 					{
-						"item"		"Strange Filter: Patagonia (Community)"
-						"show_market"	"0"
-					}
-					"15"
-					{
-						"item"		"Strange Filter: Cutter (Community)"
-						"show_market"	"0"
-					}
-					"16"
-					{
-						"item"		"Strange Filter: Maul (Community)"
+						"item"		"Strange Filter: Marshlands (Community)"	
 						"show_market"	"0"
 					}
 				}

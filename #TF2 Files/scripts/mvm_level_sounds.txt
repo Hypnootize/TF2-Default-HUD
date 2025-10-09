@@ -13893,7 +13893,7 @@
 
 "Physics.WaterSplash"
 {
-	"channel"		"CHAN_STATIC"
+	"channel"		"CHAN_VOICE"
 	"volume"	"0.560000"
 	"pitch"			"85, 115"
 

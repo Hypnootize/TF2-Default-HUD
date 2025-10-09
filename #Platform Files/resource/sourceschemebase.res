@@ -192,9 +192,7 @@ Scheme
 		MainMenu.ArmedTextColor		"200 200 200 255"	[$WIN32]
 		MainMenu.ArmedTextColor		"White"				[$X360]
 		MainMenu.DepressedTextColor	"192 186 80 255"
-		MainMenu.MenuItemHeight		"30"				[$WIN32]
-		MainMenu.MenuItemHeight			"22"				[$X360]
-		MainMenu.MenuItemHeight_hidef	"32"				[$X360]
+		MainMenu.MenuItemHeight		"22"
 		MainMenu.Inset				"32"
 		MainMenu.Backdrop			"0 0 0 156"
 
@@ -392,34 +390,28 @@ Scheme
 		}
 		"MenuLarge"
 		{
-			"1"	[$OSX]
-			{
-				"name"		"Helvetica Bold"
-				"tall"		"20"
-				"antialias" "1"
-			}
-			"1"	[$LINUX]
-			{
-				"name"		"Verdana"
-				"tall"		"24"
-				"weight"	"600"
-				"antialias" "1"
-			}
-			"1"	[$WINDOWS]
+			//"1"	[$LINUX]
+			//{
+			//	"name"		"Verdana"
+			//	"tall"		"24"
+			//	"weight"	"600"
+			//	"antialias" "1"
+			//	"yres"	 "480 1199"
+			//}
+			//"1"	[$WINDOWS]
+			//{
+			//	"name"		"Verdana" 
+			//	"tall"		"20"
+			//	"weight"	"600"
+			//	"antialias" "1"
+			//	"yres"	 "480 1199"
+			//}
+			"1"	
 			{
 				"name"		"Verdana" 
-				"tall"		"16"
+				"tall"		"12"
 				"weight"	"600"
 				"antialias" "1"
-			}
-			"1"	[$X360]
-			{
-				"name"		"Verdana"
-				"tall"			"14"
-				"tall_hidef"	"20"
-				"weight"	"1200"
-				"antialias" "1"
-				"outline" "1"
 			}
 		}
 		"AchievementTitleFont"
@@ -516,6 +508,19 @@ Scheme
 				"name"		"Trebuchet MS"
 				"tall"		"24"
 				"weight"	"900"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"1"
+				"yres"	"480 1199"
+			}
+			"2" // misyl: Proportional
+			{
+				"name"		"Trebuchet MS"
+				"tall"		"16"
+				"weight"	"900"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"1"
 			}
 		}
 
@@ -633,7 +638,7 @@ Scheme
 //			}
 		}
 
-		"CloseCaption_Normal"
+		"CloseCaption"
 		{
 			"1"
 			{

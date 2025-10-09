@@ -314,6 +314,7 @@
 	{
 		"class"			"string"
 		"entindex"		"long"
+		"owner_entindex"		"long"
 	}
 	"ammo_pickup"
 	{
@@ -325,6 +326,7 @@
 	{
 		"amount"	"long"
 		"total"	"long"
+		"entindex"		"long"
 	}
 	"take_armor"
 	{

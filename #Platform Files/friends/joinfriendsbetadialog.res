@@ -129,7 +129,7 @@
 		"labelText"		"#Friends_BetaHomePage"
 		"textAlignment"		"west"
 		"wrap"		"0"
-		"URLText"		"http://developer.valvesoftware.com/wiki/Friends_Beta"
+		"URLText"		"https://developer.valvesoftware.com/wiki/Friends_Beta"
 	}
 	"Divider1"
 	{

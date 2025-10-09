@@ -560,7 +560,6 @@
 		"item_url"	"demoman"
 		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
 		"holiday_restriction"	"christmas"
-		"weight"	"20"
 	}
 	"hwn24_hale"
 	{
@@ -582,6 +581,5 @@
 		"item_url"	"demoman"
 		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
 		"holiday_restriction"	"christmas"
-		"weight"	"60"
 	}
 }

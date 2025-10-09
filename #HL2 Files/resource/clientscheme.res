@@ -537,7 +537,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"CloseCaption_Normal"
+		"CloseCaption"
 		{
 			"1"
 			{
