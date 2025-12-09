@@ -3783,5 +3783,15 @@
 				"width"		"128"
 				"height"	"32"
 		}
+
+		"nutcracker"
+		{
+				"dfile"	"HUD/d_images_v3"
+				"dnegfile"	"HUD/dneg_images_v3"
+				"x"		"256"
+				"y"		"896"
+				"width"		"128"
+				"height"	"32"
+		}
 	}
 }
