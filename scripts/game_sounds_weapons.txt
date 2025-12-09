@@ -7247,6 +7247,22 @@
 	}
 }
 
+"Weapon_bm_throwable.InspectShake"
+{
+	"channel"	"CHAN_WEAPON"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_95dB"
+	"wave"		")weapons/breadmonster/throwable/bm_throwable_inspect_shake.wav"
+}
+
+"Weapon_bm_throwable.InspectTing"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_95dB"	
+	"wave"	")weapons/breadmonster/throwable/bm_throwable_inspect_ting.wav"
+}
+
 // ------------------------------------------------------------------------------------ //
 
 // ------------------------------------------------------------------------------------ //
