@@ -38,7 +38,8 @@ Response item_birdhead_uberSniper
 }
 Rule item_birdhead_uberSniper
 {
-	criteria ConceptMedicChargeDeployed IsSniper  IsInvulnerable MedicNotInvulnerableSpeech 20PercentChance IsSniperBirdHead
+	criteria ConceptFireWeapon IsSniper IsInvulnerable SniperNotInvulnerableSpeech 20PercentChance IsSniperBirdHead
+	ApplyContext "SniperInvulnerableSpeech:1:30"
 	Response item_birdhead_uberSniper
 }
 
@@ -63,7 +64,8 @@ Response item_unicorn_uberSniper
 }
 Rule item_unicorn_uberSniper
 {
-	criteria ConceptMedicChargeDeployed IsSniper  IsInvulnerable MedicNotInvulnerableSpeech 20PercentChance IsUnicornHead
+	criteria ConceptFireWeapon IsSniper IsInvulnerable SniperNotInvulnerableSpeech 20PercentChance IsUnicornHead
+	ApplyContext "SniperInvulnerableSpeech:1:30"
 	Response item_unicorn_uberSniper
 }
 

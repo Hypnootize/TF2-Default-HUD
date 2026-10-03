@@ -11,7 +11,8 @@ Response item_unicorn_uberScout
 }
 Rule item_unicorn_uberScout
 {
-	criteria ConceptMedicChargeDeployed IsScout  IsInvulnerable MedicNotInvulnerableSpeech 20PercentChance IsUnicornHead
+	criteria ConceptFireWeapon IsScout IsInvulnerable ScoutNotInvulnerableSpeech 20PercentChance IsUnicornHead
+	ApplyContext "ScoutInvulnerableSpeech:1:30"
 	Response item_unicorn_uberScout
 }
 
@@ -163,7 +164,7 @@ Response item_haunthat_on_fireScout
 }
 Rule item_haunthat_on_fireScout
 {
-	criteria ConceptFire IsScout ScoutIsNotStillonFire  20PercentChance IsHauntedHat
+	criteria ConceptFire IsScout ScoutIsNotStillonFire 20PercentChance IsHauntedHat
 	ApplyContext "ScoutOnFire:1:7"
 	Response item_haunthat_on_fireScout
 }
@@ -175,7 +176,7 @@ Response item_unicorn_on_fireScout
 }
 Rule item_unicorn_on_fireScout
 {
-	criteria ConceptFire IsScout ScoutIsNotStillonFire  20PercentChance IsUnicornHead
+	criteria ConceptFire IsScout ScoutIsNotStillonFire 20PercentChance IsUnicornHead
 	ApplyContext "ScoutOnFire:1:7"
 	Response item_unicorn_on_fireScout
 }
