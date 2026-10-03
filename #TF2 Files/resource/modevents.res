@@ -2004,5 +2004,11 @@
 		"victim"	"short"
 		"assister"	"short"
 	}
+
+	"pumpkin_forced_undisguise"
+	{
+		"userid"	"short"		// user ID of the player disguised as a pumpkin
+		"attacker"	"short"		// user ID of the player who dealt the damage
+	}
 }
 

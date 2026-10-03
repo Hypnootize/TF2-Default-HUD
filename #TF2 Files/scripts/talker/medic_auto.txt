@@ -25,9 +25,20 @@ Response item_birdhead_uberMedic
 {
 	scene "scenes/Player/Medic/low/6918.vcd" 
 }
+
+// Doctor - Medic is ubering someone else
 Rule item_birdhead_uberMedic
 {
-	criteria ConceptMedicChargeDeployed IsMedic  IsInvulnerable MedicNotInvulnerableSpeech 20PercentChance IsMedicBirdHead
+	criteria ConceptMedicChargeDeployed IsMedic IsInvulnerable MedicNotInvulnerableSpeech 20PercentChance IsMedicBirdHead
+	ApplyContext "MedicInvulnerableSpeech:1:30"
+	Response item_birdhead_uberMedic
+}
+
+// Combat - Medic is ubered by someone else
+Rule item_birdhead_uberMedic2
+{
+	criteria ConceptFireWeapon IsMedic IsInvulnerable WeaponIsNotMediGun MedicNotInvulnerableSpeech 20PercentChance IsMedicBirdHead
+	ApplyContext "MedicInvulnerableSpeech:1:30"
 	Response item_birdhead_uberMedic
 }
 
@@ -58,9 +69,20 @@ Response item_secop_uberMedic
 {
 	scene "scenes/Player/Medic/low/6853.vcd" 
 }
+
+// Doctor - Medic is ubering someone else
 Rule item_secop_uberMedic
 {
 	criteria ConceptMedicChargeDeployed IsMedic  IsInvulnerable MedicNotInvulnerableSpeech 30PercentChance IsMedicDoubleFace
+	ApplyContext "MedicInvulnerableSpeech:1:30"
+	Response item_secop_uberMedic
+}
+
+// Combat - Medic is ubered by someone else
+Rule item_secop_uberMedic2
+{
+	criteria ConceptFireWeapon IsMedic IsInvulnerable WeaponIsNotMediGun MedicNotInvulnerableSpeech 30PercentChance IsMedicDoubleFace
+	ApplyContext "MedicInvulnerableSpeech:1:30"
 	Response item_secop_uberMedic
 }
 
@@ -218,7 +240,7 @@ Response item_zombiebird_on_fireMedic
 }
 Rule item_zombiebird_on_fireMedic
 {
-	criteria ConceptFire IsMedic MedicIsNotStillonFire  20PercentChance IsMedicZombieBird
+	criteria ConceptFire IsMedic MedicIsNotStillonFire 20PercentChance IsMedicZombieBird
 	ApplyContext "MedicOnFire:1:7"
 	Response item_zombiebird_on_fireMedic
 }

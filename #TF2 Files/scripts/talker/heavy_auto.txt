@@ -26,7 +26,8 @@ Response item_birdhead_uberHeavy
 }
 Rule item_birdhead_uberHeavy
 {
-	criteria ConceptMedicChargeDeployed IsHeavy  IsInvulnerable MedicNotInvulnerableSpeech 20PercentChance IsHeavyBirdHead
+	criteria ConceptFireMinigun IsHeavy WeaponIsMinigun IsInvulnerable HeavyNotInvulnerableSpeech 20PercentChance IsHeavyBirdHead
+	ApplyContext "HeavyInvulnerableSpeech:1:30"
 	Response item_birdhead_uberHeavy
 }
 
@@ -38,7 +39,8 @@ Response item_unicorn_uberHeavy
 }
 Rule item_unicorn_uberHeavy
 {
-	criteria ConceptMedicChargeDeployed IsHeavy  IsInvulnerable MedicNotInvulnerableSpeech 20PercentChance IsUnicornHead
+	criteria ConceptFireMinigun IsHeavy WeaponIsMinigun IsInvulnerable HeavyNotInvulnerableSpeech 20PercentChance IsUnicornHead
+	ApplyContext "HeavyInvulnerableSpeech:1:30"
 	Response item_unicorn_uberHeavy
 }
 
