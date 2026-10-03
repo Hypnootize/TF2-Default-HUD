@@ -10,7 +10,8 @@ Response item_unicorn_uberEngineer
 }
 Rule item_unicorn_uberEngineer
 {
-	criteria ConceptMedicChargeDeployed IsEngineer  IsInvulnerable MedicNotInvulnerableSpeech 20PercentChance IsUnicornHead
+	criteria ConceptFireWeapon IsEngineer IsInvulnerable EngineerNotInvulnerableSpeech 20PercentChance IsUnicornHead
+	ApplyContext "EngineerInvulnerableSpeech:1:30"
 	Response item_unicorn_uberEngineer
 }
 
@@ -79,7 +80,7 @@ Response item_unicorn_dispenserEngineer
 }
 Rule item_unicorn_dispenserEngineer
 {
-	criteria ConceptPlayerBuildingObject IsDispenser IsEngineer  IsUnicornHead 10PercentChance
+	criteria ConceptPlayerBuildingObject IsDispenser IsEngineer IsUnicornHead 10PercentChance
 	Response item_unicorn_dispenserEngineer
 }
 

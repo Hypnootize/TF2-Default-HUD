@@ -1711,87 +1711,87 @@
 				{
 					"0"
 					{
-						"item"		"Winter 2025 Cosmetic Key"
+						"item"		"Halloween 2026 Key"
 						"show_market"	"0"
 					}
 					"1"
 					{
-						"item"		"Winter 2025 Cosmetic Case"
+						"item"		"Halloween 2026 Case"
 						"show_market"	"1"
 					}
 					"2"
 					{
-						"item"		"Taunt: Dead Mann's Drink"
+						"item"		"Taunt: Hippocratic Hypocrite"
 						"show_market"	"0"
 					}
 					"3"
 					{
-						"item"		"Taunt: The Critical Fail"
+						"item"		"Taunt: One-Eyed Punt"
 						"show_market"	"0"
 					}
 					"4"
 					{
-						"item"		"Taunt: Chairholder"
+						"item"		"Taunt: Showrunner's Spirit"
 						"show_market"	"0"
 					}
 					"5"
 					{
-						"item"		"Map Token Nutcracker"
+						"item"		"Taunt: Barrel Roll"
 						"show_market"	"0"
 					}
 					"6"
 					{
-						"item"		"Map Token Gavle"
+						"item"		"Taunt: Sear You Later"
 						"show_market"	"0"
 					}
 					"7"
 					{
-						"item"		"Map Token Sidewinder"
+						"item"		"Map Token HolyHell"
 						"show_market"	"0"
 					}
 					"8"
 					{
-						"item"		"Map Token Abbey"
+						"item"		"Map Token Scarypass"
 						"show_market"	"0"
 					}
 					"9"
 					{
-						"item"		"Map Token Winter Ridge"
+						"item"		"Map Token Trainsawlaser"
 						"show_market"	"0"
 					}
 					"10"
 					{
-						"item"		"Map Token Matterhorn"
+						"item"		"Map Token Medi-Evil"
 						"show_market"	"0"
 					}
 					"11"
 					{
-						"item"		"Strange Filter: Nutcracker (Community)"
+						"item"		"Map Token Scaredy-Cat"
 						"show_market"	"0"
 					}
 					"12"
 					{
-						"item"		"Strange Filter: Gavle (Community)"
+						"item"		"Strange Filter: HolyHell (Community)"
 						"show_market"	"0"
 					}
 					"13"
 					{
-						"item"		"Strange Filter: Sidewinder (Community)"
+						"item"		"Strange Filter: Scarypass (Community)"
 						"show_market"	"0"
 					}
 					"14"
 					{
-						"item"		"Strange Filter: Abbey (Community)"
+						"item"		"Strange Filter: Trainsawlaser (Community)"
 						"show_market"	"0"
 					}
 					"15"
 					{
-						"item"		"Strange Filter: Winter Ridge (Community)"
+						"item"		"Strange Filter: Medi-Evil (Community)"
 						"show_market"	"0"
 					}
 					"16"
 					{
-						"item"		"Strange Filter: Matterhorn (Community)"
+						"item"		"Strange Filter: Scaredy-Cat (Community)"
 						"show_market"	"0"
 					}
 				}

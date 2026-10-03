@@ -267,7 +267,7 @@ WaveSchedule
 		T_TFBot_Medic
 		{
 			Class Medic
-			Name "Uber Medic"
+			Name "Über Medic"
 			ClassIcon medic_uber
 			Skill Normal
 			Attributes SpawnWithFullCharge
@@ -290,7 +290,7 @@ WaveSchedule
 		T_TFBot_Medic_QuickUber
 		{
 			Class Medic
-			Name "Uber Medic"
+			Name "Über Medic"
 			ClassIcon medic_uber
 			Skill Normal
 			Attributes SpawnWithFullCharge
@@ -349,7 +349,7 @@ WaveSchedule
 		T_TFBot_Medic_SlowRecharge
 		{
 			Class Medic
-			Name "Uber Medic"
+			Name "Über Medic"
 			ClassIcon medic_uber
 			Skill Normal
 			Attributes SpawnWithFullCharge

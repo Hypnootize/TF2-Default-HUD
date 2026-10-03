@@ -27,7 +27,8 @@ Response item_birdhead_uberSoldier
 }
 Rule item_birdhead_uberSoldier
 {
-	criteria ConceptMedicChargeDeployed IsSoldier  IsInvulnerable MedicNotInvulnerableSpeech 20PercentChance IsSoldierBirdHead
+	criterion ConceptFireWeapon IsSoldier IsInvulnerable SoldierNotInvulnerableSpeech 20PercentChance IsSoldierBirdHead
+	ApplyContext "SoldierInvulnerableSpeech:1:30"
 	Response item_birdhead_uberSoldier
 }
 
@@ -91,7 +92,8 @@ Response item_maggot_uberSoldier
 }
 Rule item_maggot_uberSoldier
 {
-	criteria ConceptMedicChargeDeployed IsSoldier  IsInvulnerable MedicNotInvulnerableSpeech 20PercentChance IsSoldierMaggotHat
+	criterion ConceptFireWeapon IsSoldier IsInvulnerable SoldierNotInvulnerableSpeech 20PercentChance IsSoldierMaggotHat
+	ApplyContext "SoldierInvulnerableSpeech:1:30"
 	Response item_maggot_uberSoldier
 }
 
@@ -182,7 +184,7 @@ Response item_birdhead_on_fireSoldier
 }
 Rule item_birdhead_on_fireSoldier
 {
-	criteria ConceptFire IsSoldier SoldierIsNotStillonFire  40PercentChance IsSoldierBirdHead
+	criteria ConceptFire IsSoldier SoldierIsNotStillonFire 40PercentChance IsSoldierBirdHead
 	ApplyContext "SoldierOnFire:1:7"
 	Response item_birdhead_on_fireSoldier
 }
@@ -194,7 +196,7 @@ Response item_maggot_on_fireSoldier
 }
 Rule item_maggot_on_fireSoldier
 {
-	criteria ConceptFire IsSoldier SoldierIsNotStillonFire  20PercentChance IsSoldierMaggotHat
+	criteria ConceptFire IsSoldier SoldierIsNotStillonFire 20PercentChance IsSoldierMaggotHat
 	ApplyContext "SoldierOnFire:1:7"
 	Response item_maggot_on_fireSoldier
 }

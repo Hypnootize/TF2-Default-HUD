@@ -4865,7 +4865,7 @@
 	"soundlevel" 		"SNDLVL_95dB"
 	"rndwave"
 	{
-		"wave"			"vo/taunts/pyro_painsevere01.mp3"
+		"wave"			"vo/pyro_painsevere01.mp3"
 		"wave"			"vo/taunts/pyro_highfive01.mp3"
 		"wave"			"vo/taunts/pyro_highfive02.mp3"
 	}
@@ -4967,7 +4967,7 @@
 	"soundlevel" 		"SNDLVL_95dB"
 	"rndwave"
 	{
-		"wave"			"vo/taunts/spy/spy_laughevil02.mp3"
+		"wave"			"vo/spy_laughevil02.mp3"
 		"wave"			"vo/taunts/spy/spy_taunt_flip_end_14.mp3"
 		"wave"			"vo/taunts/spy/spy_tnt_nutkick_kick03.mp3"
 	}
@@ -10056,8 +10056,8 @@
 	"soundlevel" 			"SNDLVL_95dB"
 	"rndwave"
 	{
-		"wave"			"vo/taunt/spy/spy_taunt_exert_13.mp3"
-		"wave"			"vo/taunt/spy/spy_taunt_exert_14.mp3"
+		"wave"			"vo/taunts/spy/spy_taunt_exert_13.mp3"
+		"wave"			"vo/taunts/spy/spy_taunt_exert_14.mp3"
 	}
 }
 
@@ -10070,8 +10070,8 @@
 	"rndwave"
 	{
 		"wave"			"vo/spy_sf12_badmagic07.mp3"
-		"wave"			"vo/taunt/spy/spy_taunt_dosi_end_06.mp3"
-		"wave"			"vo/taunt/spy/spy_taunt_rps_lose_05.mp3"
+		"wave"			"vo/taunts/spy/spy_taunt_dosi_end_06.mp3"
+		"wave"			"vo/taunts/spy/spy_taunt_rps_lose_05.mp3"
 	}
 }
 
@@ -10345,5 +10345,1272 @@
 		"wave"			"vo/scout_beingshotinvincible19.mp3"
 		"wave"			"vo/scout_beingshotinvincible21.mp3"
 		"wave"			"vo/scout_domination02.mp3"
+	}
+}
+"heavy_taunt_the_circuit_breaker_heavy_battlecry03"
+{
+  "channel"			"CHAN_VOICE"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"vo/heavy_battlecry03.mp3"
+}
+"heavy_taunt_the_circuit_breaker_scout_mvm_m_jeers09"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"vo/mvm/mght/scout_mvm_m_jeers09.mp3"
+}
+"heavy_taunt_the_circuit_breaker_scout_mvm_m_helpme03"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"vo/mvm/mght/scout_mvm_m_helpme03.mp3"
+}
+"heavy_taunt_the_circuit_breaker_bat_draw_swoosh1"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"weapons/bat_draw_swoosh1.wav"
+}
+"heavy_taunt_the_circuit_breaker_metal_gloves_hit"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"weapons/metal_gloves_hit.wav"
+}
+"heavy_taunt_the_circuit_breaker_concrete1"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/concrete1.wav"
+}
+"heavy_taunt_the_circuit_breaker_bat_draw_swoosh2"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"weapons/bat_draw_swoosh2.wav"
+}
+"heavy_taunt_the_circuit_breaker_metal_hit_hand1"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"weapons/metal_hit_hand1.wav"
+}
+"heavy_taunt_the_circuit_breaker_concrete2"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/concrete2.wav"
+}
+"heavy_taunt_the_circuit_breaker_bat_draw_swoosh1"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"weapons/bat_draw_swoosh1.wav"
+}
+"heavy_taunt_the_circuit_breaker_metal_hit_hand2"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"weapons/metal_hit_hand2.wav"
+}
+"heavy_taunt_the_circuit_breaker_mvm_money_pickup"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"mvm/mvm_money_pickup.wav"
+}
+"heavy_taunt_the_circuit_breaker_spy_shield_break"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/spy_shield_break.wav"
+}
+"heavy_taunt_the_circuit_breaker_item_metal_scrap_drop"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"ui/item_metal_scrap_drop.wav"
+}
+"heavy_taunt_the_circuit_breaker_bat_draw_swoosh1"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"weapons/bat_draw_swoosh1.wav"
+}
+"heavy_taunt_the_circuit_breaker_spark6"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"ambient/energy/spark6.wav"
+}
+"heavy_taunt_the_circuit_breaker_spark5"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"ambient/energy/spark5.wav"
+}
+"heavy_taunt_the_circuit_breaker_spark3"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"ambient/energy/spark3.wav"
+}
+
+// SOLDIER BUFFOONS BIVOUAC TAUNT
+"taunt_soldier_buffoons_bivouac_start"
+{
+	"channel" 			"CHAN_VOICE"
+	"volume" 			"VOL_NORM"
+	"pitch" 			"PITCH_NORM"
+	"soundlevel" 			"SNDLVL_95dB"
+	"rndwave"
+	{
+		"wave" 			"vo/taunts/soldier/soldier_taunt_kill_01.mp3"
+		"wave" 			"vo/taunts/soldier/soldier_taunt_kill_10.mp3"
+		"wave" 			"vo/taunts/soldier/soldier_taunt_flip_end_17.mp3"
+		"wave"			"vo/taunts/soldier/soldier_taunt_cong_fun_01.mp3"
+		"wave" 			"vo/taunts/soldier/soldier_taunt_cong_fun_29.mp3"
+		"wave"			"vo/taunts/soldier/soldier_taunt_admire_22.mp3"
+		"wave" 			"vo/taunts/soldier/soldier_taunt_admire_24.mp3"
+		"wave"			"vo/taunts/soldier/soldier_taunt_admire_10.mp3"
+		"wave" 			"vo/soldier_positivevocalization01.mp3"
+		"wave" 			"vo/soldier_mvm_collect_credits02.mp3"
+		"wave" 			"vo/soldier_mvm_get_upgrade01.mp3"
+	}
+}
+
+"taunt_soldier_buffoons_bivouac_end_A"
+{
+	"channel" 			"CHAN_VOICE"
+	"volume" 			"VOL_NORM"
+	"pitch" 			"PITCH_NORM"
+	"soundlevel" 			"SNDLVL_95dB"
+	"rndwave"
+	{
+		"wave"			"vo/soldier_battlecry05.mp3"
+		"wave"			"vo/soldier_battlecry01.mp3"
+		"wave"			"vo/soldier_battlecry02.mp3"
+		"wave"			"vo/taunts/soldier_taunts02.mp3"
+		"wave"			"vo/taunts/soldier_taunts03.mp3"
+		"wave"			"vo/taunts/soldier/soldier_taunt_int_19.mp3"
+		"wave"			"vo/taunts/soldier/soldier_taunt_int_15.mp3"
+		"wave"			"vo/soldier_mvm_say_ready02.mp3"
+		"wave"			"vo/soldier_mvm_resurrect01.mp3"
+		"wave"			"vo/soldier_moveup02.mp3"
+		"wave"			"vo/soldier_go03.mp3"
+
+	}
+}
+
+"taunt_soldier_buffoons_bivouac_end_fall"
+{
+	"channel" 			"CHAN_VOICE"
+	"volume" 			"VOL_NORM"
+	"pitch" 			"PITCH_NORM"
+	"soundlevel" 			"SNDLVL_95dB"
+	"rndwave"
+	{
+		"wave"			"vo/soldier_painsharp02.mp3"
+		"wave"			"vo/soldier_painsharp08.mp3"
+		"wave"			"vo/soldier_painsharp03.mp3"
+		"wave"			"vo/soldier_painsharp01.mp3"
+	}
+}
+
+"taunt_soldier_buffoons_bivouac_end_B"
+{
+	"channel" 			"CHAN_VOICE"
+	"volume" 			"VOL_NORM"
+	"pitch" 			"PITCH_NORM"
+	"soundlevel" 			"SNDLVL_95dB"
+	"rndwave"
+	{
+		"wave"			"vo/soldier_mvm_get_upgrade02.mp3"
+		"wave"			"vo/taunts/soldier/soldier_taunt_flip_end_03.mp3"
+		"wave"			"vo/soldier_sf12_badmagic05.mp3"
+		"wave"			"vo/taunts/soldier/soldier_taunt_flip_end_01.mp3"
+		"wave"			"vo/soldier_laughshort02.mp3"
+		"wave"			"vo/soldier_laughshort01.mp3"
+	}
+}
+
+"taunt_soldier_buffoons_bivouac_action_01"
+{
+	"channel" 			"CHAN_VOICE"
+	"volume" 			"VOL_NORM"
+	"pitch" 			"PITCH_NORM"
+	"soundlevel" 			"SNDLVL_95dB"
+	"rndwave"
+	{
+		"wave"			"vo/taunts/soldier/soldier_taunt_flip_fun_04.mp3"
+		"wave"			"vo/taunts/soldier/soldier_taunt_dosi_fun_29.mp3"
+		"wave"			"vo/taunts/soldier/soldier_taunt_dosi_fun_05.mp3"
+		"wave"			"vo/soldier_sf13_influx_big02.mp3"
+		"wave"			"vo/soldier_sf12_goodmagic01.mp3"
+		"wave"			"vo/soldier_laughhappy01.mp3"
+		"wave"			"vo/soldier_laughhappy02.mp3"
+		"wave"			"vo/soldier_laughhappy03.mp3"
+	}
+}
+
+"taunt_soldier_buffoons_bivouac_action_02"
+{
+	"channel" 			"CHAN_VOICE"
+	"volume" 			"VOL_NORM"
+	"pitch" 			"PITCH_NORM"
+	"soundlevel" 			"SNDLVL_95dB"
+	"rndwave"
+	{
+		"wave"			"vo/soldier_specialcompleted05.mp3"
+		"wave"			"vo/taunts/soldier/soldier_taunt_head_exert_02.mp3"
+		"wave"			"vo/taunts/soldier/soldier_taunt_flip_exert_31.mp3"
+		"wave"			"vo/taunts/soldier/soldier_taunt_flip_exert_21.mp3"
+		"wave"			"vo/soldier_pickaxetaunt04.mp3"
+		"wave"			"vo/soldier_mvm_resurrect04.mp3"
+		"wave"			"vo/soldier_directhittaunt04.mp3"
+		"wave"			"vo/soldier_directhittaunt03.mp3"
+	}
+}
+
+"spy_taunt_fauxcolization_A"
+
+{
+
+"channel" "CHAN_VOICE"
+"volume" "VOL_NORM"
+"pitch" "PITCH_NORM"
+"soundlevel" "SNDLVL_95dB"
+"rndwave"
+
+{
+
+"wave" "vo/scout_domination08.mp3"
+"wave" "vo/scout_domination19.mp3"
+
+"wave" "vo/soldier_hat_taunts19.mp3"
+"wave" "vo/soldier_hatoverhearttaunt03.mp3"
+
+"wave" "vo/pyro_specialcompleted01.mp3"
+
+"wave" "vo/demoman_specialcompleted04.mp3"
+"wave" "vo/demoman_specialcompleted08.mp3"
+
+"wave" "vo/heavy_domination15.mp3"
+"wave" "vo/heavy_revenge09.mp3"
+
+"wave" "vo/engineer_dominationheavy09.mp3"
+"wave" "vo/engineer_dominationspy11.mp3"
+
+"wave" "vo/medic_jeers06.mp3"
+"wave" "vo/medic_specialcompleted08.mp3"
+
+"wave" "vo/sniper_dominationsniper19.mp3"
+"wave" "vo/sniper_revenge19.mp3"
+
+"wave" "vo/spy_dominationspy03.mp3"
+
+}
+
+}
+
+
+"spy_taunt_fauxcolization_B"
+
+{
+
+"channel" "CHAN_VOICE"
+"volume" "VOL_NORM"
+"pitch" "PITCH_NORM"
+"soundlevel" "SNDLVL_95dB"
+"rndwave"
+
+{
+
+"wave" "vo/spy_battlecry04.mp3"
+
+}
+
+}
+
+"pyro_taunt_friendly_fire_taunt_machete_draw"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/taunt_machete_draw.wav"
+}
+"pyro_taunt_friendly_fire_taunt_equipment_jingle"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/taunt_equipment_jingle.wav"
+}
+"pyro_taunt_friendly_fire_taunt_equipment_jingle2"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/taunt_equipment_jingle2.wav"
+}
+"pyro_taunt_friendly_fire_taunt_moped_start_handle_grab"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/taunt_moped_start_handle_grab.wav"
+}
+"pyro_taunt_friendly_fire_cyoa_pda_clothes_rustle_light"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/cyoa_pda_clothes_rustle_light.wav"
+}
+"pyro_taunt_friendly_fire_taunt_clothes_swipe2"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/taunt_clothes_swipe2.wav"
+}
+"pyro_taunt_friendly_fire_taunt_equipment_jingle"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/taunt_equipment_jingle.wav"
+}
+"pyro_taunt_friendly_fire_taunt_yeti_standee_soldier_step3"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/taunt_yeti_standee_soldier_step3.wav"
+}
+"pyro_taunt_friendly_fire_flare_detonator_explode_world"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"weapons/flare_detonator_explode_world.wav"
+}
+"pyro_taunt_friendly_fire_taunt_yeti_standee_pyro_equipment"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/taunt_yeti_standee_pyro_equipment.wav"
+}
+"scout_taunt_showrunners_spirit_draw_default"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"weapons/draw_default.wav"
+}
+"scout_taunt_showrunners_spirit_taunt_equipment_gun1"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/taunt_equipment_gun1.wav"
+}
+"scout_taunt_showrunners_spirit_taunt_equipment_gun2"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/taunt_equipment_gun2.wav"
+}
+"scout_taunt_showrunners_spirit_taunt_yeti_standee_sniper_clothes_rustle"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/taunt_yeti_standee_sniper_clothes_rustle.wav"
+}
+"scout_taunt_showrunners_spirit_cyoa_pda_clothes_rustle"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/cyoa_pda_clothes_rustle.wav"
+}
+"scout_taunt_showrunners_spirit_taunt_clothes_swipe"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/taunt_clothes_swipe.wav"
+}
+"scout_taunt_showrunners_spirit_cyoa_pda_equipment_light"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/cyoa_pda_equipment_light.wav"
+}
+"scout_taunt_showrunners_spirit_item_rubber_pickup"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"ui/item_rubber_pickup.wav"
+}
+"scout_taunt_showrunners_spirit_bow_shoot_pull_short"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"weapons/bow_shoot_pull_short.wav"
+}
+"scout_taunt_showrunners_spirit_projectile_swoosh5"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"passtime/projectile_swoosh5.wav"
+}
+"scout_taunt_showrunners_spirit_taunt_foot_spin"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/taunt_foot_spin.wav"
+}
+"scout_taunt_showrunners_spirit_taunt_foot_stomp"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/taunt_foot_stomp.wav"
+}
+"scout_taunt_showrunners_spirit_taunt_foot_stomp_light"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/taunt_foot_stomp_light.wav"
+}
+"scout_taunt_showrunners_spirit_taunt_heel_click"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/taunt_heel_click.wav"
+}
+"scout_taunt_showrunners_spirit_scout_taunt_flip_exert_01"
+{
+  "channel"			"CHAN_VOICE"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"vo/taunts/scout/scout_taunt_flip_exert_01.wav"
+}
+"scout_taunt_showrunners_spirit_scout_taunts17"
+{
+  "channel"			"CHAN_VOICE"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"vo/taunts/scout_taunts17.wav"
+}
+"scout_taunt_showrunners_spirit_scout_painsevere04"
+{
+  "channel"			"CHAN_VOICE"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"vo/scout_painsevere04.wav"
+}
+"demo_taunt_barrel_roll_taunt_equipment_jingle"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/taunt_equipment_jingle.wav"
+}
+"demo_taunt_barrel_roll_projectile_swoosh5"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"passtime/projectile_swoosh5.wav"
+}
+"demo_taunt_barrel_roll_banana_slip"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"misc/banana_slip.wav"
+}
+"demo_taunt_barrel_roll_wood_crate_break4"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"physics/wood/wood_crate_break4.wav"
+}
+"demo_taunt_barrel_roll_wood_crate_impact_hard3"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"physics/wood/wood_crate_impact_hard3.wav"
+}
+"demo_taunt_barrel_roll_woodpanel1"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel1.wav"
+}
+"demo_taunt_barrel_roll_woodpanel2"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel2.wav"
+}
+"demo_taunt_barrel_roll_woodpanel3"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel3.wav"
+}
+"demo_taunt_barrel_roll_woodpanel4"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel4.wav"
+}
+"demo_taunt_barrel_roll_woodpanel1"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel1.wav"
+}
+"demo_taunt_barrel_roll_woodpanel4"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel4.wav"
+}
+"demo_taunt_barrel_roll_woodpanel2"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel2.wav"
+}
+"demo_taunt_barrel_roll_woodpanel3"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel3.wav"
+}
+"demo_taunt_barrel_roll_woodpanel4"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel4.wav"
+}
+"demo_taunt_barrel_roll_woodpanel1"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel1.wav"
+}
+"demo_taunt_barrel_roll_woodpanel4"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel4.wav"
+}
+"demo_taunt_barrel_roll_woodpanel2"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel2.wav"
+}
+"demo_taunt_barrel_roll_woodpanel3"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel3.wav"
+}
+"demo_taunt_barrel_roll_woodpanel1"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel1.wav"
+}
+"demo_taunt_barrel_roll_woodpanel4"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel4.wav"
+}
+"demo_taunt_barrel_roll_woodpanel1"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel1.wav"
+}
+"demo_taunt_barrel_roll_woodpanel2"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel2.wav"
+}
+"demo_taunt_barrel_roll_woodpanel3"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel3.wav"
+}
+"demo_taunt_barrel_roll_woodpanel1"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel1.wav"
+}
+"demo_taunt_barrel_roll_woodpanel4"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel4.wav"
+}
+"demo_taunt_barrel_roll_woodpanel2"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel2.wav"
+}
+"demo_taunt_barrel_roll_woodpanel3"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel3.wav"
+}
+"demo_taunt_barrel_roll_woodpanel4"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel4.wav"
+}
+"demo_taunt_barrel_roll_woodpanel1"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel1.wav"
+}
+"demo_taunt_barrel_roll_woodpanel4"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel4.wav"
+}
+"demo_taunt_barrel_roll_woodpanel2"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel2.wav"
+}
+"demo_taunt_barrel_roll_woodpanel3"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel3.wav"
+}
+"demo_taunt_barrel_roll_woodpanel1"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel1.wav"
+}
+"demo_taunt_barrel_roll_woodpanel4"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel4.wav"
+}
+"demo_taunt_barrel_roll_woodpanel3"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel3.wav"
+}
+"demo_taunt_barrel_roll_woodpanel2"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel2.wav"
+}
+"demo_taunt_barrel_roll_woodpanel1"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel1.wav"
+}
+"demo_taunt_barrel_roll_woodpanel4"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel4.wav"
+}
+"demo_taunt_barrel_roll_woodpanel3"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel3.wav"
+}
+"demo_taunt_barrel_roll_woodpanel1"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel1.wav"
+}
+"demo_taunt_barrel_roll_woodpanel2"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel2.wav"
+}
+"demo_taunt_barrel_roll_woodpanel4"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel4.wav"
+}
+"demo_taunt_barrel_roll_woodpanel1"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel1.wav"
+}
+"demo_taunt_barrel_roll_woodpanel3"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel3.wav"
+}
+"demo_taunt_barrel_roll_woodpanel2"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel2.wav"
+}
+"demo_taunt_barrel_roll_woodpanel1"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel1.wav"
+}
+"demo_taunt_barrel_roll_woodpanel4"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel4.wav"
+}
+"demo_taunt_barrel_roll_woodpanel3"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/footsteps/woodpanel3.wav"
+}
+"demo_taunt_barrel_roll_taunt_equipment_jingle4"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/taunt_equipment_jingle4.wav"
+}
+"demo_taunt_barrel_roll_taunt_yeti_standee_demo_step4"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/taunt_yeti_standee_demo_step4.wav"
+}
+"demo_taunt_barrel_roll_taunt_yeti_standee_demo_step3"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/taunt_yeti_standee_demo_step3.wav"
+}
+"demo_taunt_barrel_roll_taunt_yeti_standee_demo_step2"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/taunt_yeti_standee_demo_step2.wav"
+}
+"demo_taunt_barrel_roll_taunt_flip_land3"
+{
+  "channel"			"CHAN_VOICE"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"vo/taunts/common/taunt_flip_land3.wav"
+}
+"demo_taunt_barrel_roll_cyoa_pda_spin"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/cyoa_pda_spin.wav"
+}
+"demo_taunt_barrel_roll_wood_crate_impact_hard4"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"physics/wood/wood_crate_impact_hard4.wav"
+}
+"demo_taunt_barrel_roll_taunt_clothes_swipe"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/taunt_clothes_swipe.wav"
+}
+"demo_taunt_barrel_roll_taunt_clothes_swipe2"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/taunt_clothes_swipe2.wav"
+}
+"demo_taunt_barrel_roll_taunt_equipment_jingle"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"player/taunt_equipment_jingle.wav"
+}
+
+// SOLDIER ONEEYEDPUNT TAUNT
+"taunt_soldier_oneeyedpunt_start"
+{
+"channel" "CHAN_VOICE"
+"volume" "VOL_NORM"
+"pitch" "PITCH_NORM"
+"soundlevel" "SNDLVL_95dB"
+"rndwave"
+{
+"wave" "vo/soldier_dominationdemoman01.mp3"
+"wave" "vo/soldier_dominationdemoman02.mp3"
+"wave" "vo/soldier_dominationdemoman03.mp3"
+"wave" "vo/taunts/soldier_taunts02.mp3"
+"wave" "vo/taunts/soldier/soldier_taunt_head_end_24.mp3"
+"wave" "vo/taunts/soldier/soldier_taunt_flip_int_20.mp3"
+"wave""vo/taunts/soldier/soldier_taunt_flip_int_24.mp3"
+}
+}
+
+"taunt_soldier_oneeyedpunt_end"
+{
+"channel" "CHAN_VOICE"
+"volume" "VOL_NORM"
+"pitch" "PITCH_NORM"
+"soundlevel" "SNDLVL_95dB"
+"rndwave"
+{
+"wave""vo/soldier_hatoverhearttaunt01.mp3"
+"wave""vo/soldier_hatoverhearttaunt02.mp3"
+"wave""vo/soldier_hatoverhearttaunt03.mp3"
+"wave""vo/soldier_hatoverhearttaunt04.mp3"
+"wave""vo/soldier_hatoverhearttaunt05.mp3"
+"wave""vo/taunts/soldier/soldier_taunt_admire_09.mp3"
+"wave""vo/taunts/soldier/soldier_taunt_admire_18.mp3"
+"wave""vo/taunts/soldier/soldier_taunt_dosi_fun_05.mp3"
+"wave""vo/taunts/soldier/soldier_taunt_dosi_fun_29.mp3"
+}
+}
+
+
+
+"taunt_medic_medbottle_voice_A"
+{
+"channel" "CHAN_VOICE"
+"volume" "VOL_NORM"
+"pitch" "PITCH_NORM"
+"soundlevel" "SNDLVL_95dB"
+"rndwave"
+{
+"wave" "vo/medic_trade_taunts02.mp3"
+"wave" "vo/medic_laughevil05.mp3"
+"wave" "vo/medic_mvm_loot_rare02.mp3"
+"wave" "vo/medic_mvm_loot_common01.mp3"
+"wave" "vo/medic_mvm_loot_godlike02.mp3"
+"wave" "vo/taunts/medic_taunts12.mp3"
+}
+}
+
+
+"taunt_medic_medbottle_voice_oops"
+{
+"channel" "CHAN_VOICE"
+"volume" "VOL_NORM"
+"pitch" "PITCH_NORM"
+"soundlevel" "SNDLVL_95dB"
+"rndwave"
+{
+"wave" "vo/medic_specialcompleted10.mp3"
+}
+}
+
+
+"taunt_medic_medbottle_voice_B"
+{
+"channel" "CHAN_VOICE"
+"volume" "VOL_NORM"
+"pitch" "PITCH_NORM"
+"soundlevel" "SNDLVL_95dB"
+"rndwave"
+{
+"wave" "vo/taunts/medic/medic_taunt_kill_24.mp3"
+"wave" "vo/medic_laughshort02.mp3"
+"wave" "vo/medic_laughshort01.mp3"
+"wave" "vo/medic_laughshort03.mp3"
+"wave" "vo/medic_laughevil01.mp3"
+"wave" "vo/medic_laughevil02.mp3"
+"wave" "vo/medic_laughevil03.mp3"
+}
+}
+
+"taunt_scout_showrunners_spirit_voice_A"
+{
+"channel" "CHAN_VOICE"
+"volume" "VOL_NORM"
+"pitch" "PITCH_NORM"
+"soundlevel" "SNDLVL_95dB"
+"rndwave"
+{
+"wave" "vo/taunts/scout/scout_taunt_exert_05.mp3"
+"wave" "vo/taunts/scout/scout_taunt_flip_exert_10.mp3"
+"wave" "vo/taunts/scout/scout_taunt_exert_21.mp3"
+"wave" "vo/scout_painsevere04.mp3"
+
+}
+}
+
+"taunt_scout_showrunners_spirit_voice_B"
+{
+"channel" "CHAN_VOICE"
+"volume" "VOL_NORM"
+"pitch" "PITCH_NORM"
+"soundlevel" "SNDLVL_95dB"
+"rndwave"
+{
+"wave" "vo/scout_domination10.mp3"
+"wave" "vo/taunts/scout_taunts17.mp3"
+"wave" "vo/taunts/scout_taunts04.mp3"
+"wave" "vo/scout_domination15.mp3"
+"wave" "vo/taunts/scout/scout_taunt_nun_65.mp3"
+"wave" "vo/taunts/scout_taunts07.mp3"
+"wave" "vo/taunts/scout_taunts16.mp3"
+"wave" "vo/scout_domination05.mp3"
+}
+}
+
+"taunt_scout_showrunners_spirit_voice_C"
+{
+"channel" "CHAN_VOICE"
+"volume" "VOL_NORM"
+"pitch" "PITCH_NORM"
+"soundlevel" "SNDLVL_95dB"
+"rndwave"
+{
+"wave" "vo/taunts/scout/scout_taunt_flip_exert_01.mp3"
+}
+}
+
+"taunt_demo_barrel_roll_A"
+{
+"channel" "CHAN_VOICE"
+"volume" "VOL_NORM"
+"pitch" "PITCH_NORM"
+"soundlevel" "SNDLVL_95dB"
+"rndwave"
+	{
+		"wave" "vo/demoman_sf12_badmagic09.mp3"
+		"wave" "vo/demoman_sf12_badmagic10.mp3"
+	}
+}
+
+"taunt_demo_barrel_roll_A2"
+{
+"channel" "CHAN_VOICE"
+"volume" "VOL_NORM"
+"pitch" "PITCH_NORM"
+"soundlevel" "SNDLVL_95dB"
+"rndwave"
+	{
+		"wave" "vo/demoman_sf12_badmagic07.mp3"
+		"wave" "vo/demoman_sf12_badmagic08.mp3"
+		}
+}
+
+"taunt_demo_barrel_roll_B"
+{
+"channel" "CHAN_VOICE"
+"volume" "VOL_NORM"
+"pitch" "PITCH_NORM"
+"soundlevel" "SNDLVL_95dB"
+"rndwave"
+	{
+		"wave" "vo/taunts/demo/taunt_demo_exert_04.mp3"
+		"wave" "vo/taunts/demo/taunt_demo_exert_06.mp3"
+		"wave" "vo/taunts/demo/taunt_demo_exert_08.mp3"
+		"wave" "vo/taunts/demo/taunt_demo_exert_03.mp3"
+		"wave" "vo/taunts/demo/taunt_demo_flip_post_fun_04.mp3"
+		"wave" "vo/taunts/demo/taunt_demo_flip_post_fun_05.mp3"
+		"wave" "vo/taunts/demo/demo_taunt_wild_34.mp3"
+	}
+}
+
+"taunt_demo_barrel_roll_B2"
+{
+"channel" "CHAN_VOICE"
+"volume" "VOL_NORM"
+"pitch" "PITCH_NORM"
+"soundlevel" "SNDLVL_95dB"
+"rndwave"
+	{
+		"wave" "vo/taunts/demo/demo_taunt_wild_34.mp3"
+		"wave" "vo/taunts/demo/taunt_demo_dose_end_05.mp3"
+		"wave" "vo/taunts/demo/taunt_demo_flip_fun_03.mp3"
+		"wave" "vo/taunts/demo/taunt_demo_flip_post_fun_01.mp3"
+		"wave" "vo/taunts/demo/taunt_demo_rps_win_28.mp3"
+		"wave" "vo/taunts/demo/demo_taunt_wild_24.mp3"
+		"wave" "vo/taunts/demo/demo_taunt_wild_30.mp3"
+		"wave" "vo/taunts/demo/demo_taunt_wild_35.mp3"
+	}
+}
+
+"taunt_demo_barrel_roll_C"
+{
+"channel" "CHAN_VOICE"
+"volume" "VOL_NORM"
+"pitch" "PITCH_NORM"
+"soundlevel" "SNDLVL_95dB"
+"rndwave"
+	{
+		"wave" "vo/demoman_negativevocalization05.mp3"
+		"wave" "vo/demoman_negativevocalization03.mp3"
+		"wave" "vo/demoman_negativevocalization06.mp3"
+		"wave" "vo/taunts/demo/taunt_demo_head_exert_05.mp3"
+		"wave" "vo/demoman_painsevere02.mp3"
+		"wave" "vo/demoman_painsharp03.mp3"
+		"wave" "vo/demoman_sf12_badmagic01.mp3"
+		"wave" "vo/demoman_thanksfortheteleporter01.mp3"
+	}
+}
+
+"taunt_demo_barrel_roll_fuse"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"0.1"
+  "pitch"			"PITCH_NORM"
+  "soundlevel"			"SNDLVL_95dB"
+  "wave"			"misc/halloween/hwn_bomb_fuse.wav"
+}
+
+"taunt_pyro_sear_ya_later_A"
+{
+"channel" "CHAN_VOICE"
+"volume" "VOL_NORM"
+"pitch" "PITCH_NORM"
+"soundlevel" "SNDLVL_95dB"
+"rndwave"
+	{
+		"wave" "vo/pyro_battlecry01.mp3"
+		"wave" "vo/pyro_cheers01.mp3"
+		"wave" "vo/pyro_incoming01.mp3"
+		"wave" "vo/pyro_painsevere01.mp3"
+		"wave" "vo/taunts/pyro/pyro_taunt_flip_int_05.mp3"
+		"wave" "vo/taunts/pyro/pyro_taunt_flip_int_07.mp3"
+		"wave" "vo/taunts/pyro/pyro_taunt_int_05.mp3"
+	}
+}
+
+"taunt_pyro_sear_ya_later_B"
+{
+"channel" 	"CHAN_VOICE"
+"volume" 	"VOL_NORM"
+"pitch" 	"PITCH_NORM"
+"soundlevel" 	"SNDLVL_95dB"
+"rndwave"
+	{
+		"wave" "vo/pyro_laughevil01.mp3"
+		"wave" "vo/pyro_laughhappy01.mp3"
+		"wave" "vo/pyro_laughevil04.mp3"
+		"wave" "vo/taunts/pyro_highfive_success03.mp3"
+		"wave" "vo/taunts/pyro/pyro_taunt_ballon_11.mp3"
+		"wave" "vo/taunts/pyro/pyro_taunt_dosi_fun_05.mp3"
+		"wave" "vo/taunts/pyro/pyro_taunt_flip_fun_06.mp3"
+		"wave" "vo/taunts/pyro/pyro_taunt_flip_fun_09.mp3"
+		"wave" "vo/taunts/pyro/pyro_taunt_flip_fun_11.mp3"
 	}
 }

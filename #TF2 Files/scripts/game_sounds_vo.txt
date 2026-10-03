@@ -11795,7 +11795,7 @@
 "Scout.NegativeVocalization04"
 {
 	"channel"		"CHAN_VOICE"
-	"volume"		"620.000"
+	"volume"		"0.620"
 	"pitch"			"PITCH_NORM"
 
 	"soundlevel"	"SNDLVL_95dB"

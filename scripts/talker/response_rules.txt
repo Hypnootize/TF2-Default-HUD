@@ -258,7 +258,7 @@ criterion "IsOnDefense" "teamrole" "defense" required
 criterion "ConceptPlayerExpression" "Concept" "TLK_PLAYER_EXPRESSION" required
 
 
-criterion "ConceptPlayerLostPoint" "Concept" "TLK_LOST_CONTROL_POINT'" required
+criterion "ConceptPlayerLostPoint" "Concept" "TLK_LOST_CONTROL_POINT" required
 
 
 criterion "IsSapper" "objtype" "sapper" required

@@ -159,7 +159,7 @@ Response PlayerCapturedPointSpy
 }
 Rule PlayerCapturedPointSpy
 {
-	criteria ConceptPlayerCapturedPoint IsSpy
+	criteria ConceptPlayerCapturedPoint IsSpy IsNotDisguised IsNotCloaked
 	Response PlayerCapturedPointSpy
 }
 
@@ -1049,7 +1049,7 @@ Response PlayerLostPointSpy
 }
 Rule PlayerLostPointSpy
 {
-	criteria ConceptPlayerLostPoint IsSpy
+	criteria ConceptPlayerLostPoint IsSpy IsNotDisguised IsNotCloaked
 	Response PlayerLostPointSpy
 }
 

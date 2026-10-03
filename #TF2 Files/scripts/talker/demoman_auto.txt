@@ -12,7 +12,8 @@ Response item_unicorn_uberDemoman
 }
 Rule item_unicorn_uberDemoman
 {
-	criteria ConceptMedicChargeDeployed IsDemoman  IsInvulnerable MedicNotInvulnerableSpeech 20PercentChance IsUnicornHead
+	criteria ConceptFireWeapon IsDemoman IsInvulnerable DemomanNotInvulnerableSpeech 20PercentChance IsUnicornHead
+	ApplyContext "DemomanInvulnerableSpeech:1:30"
 	Response item_unicorn_uberDemoman
 }
 
@@ -62,7 +63,7 @@ Response item_unicorn_on_fireDemoman
 }
 Rule item_unicorn_on_fireDemoman
 {
-	criteria ConceptFire IsDemoman DemomanIsNotStillonFire  20PercentChance IsUnicornHead
+	criteria ConceptFire IsDemoman DemomanIsNotStillonFire 20PercentChance IsUnicornHead
 	ApplyContext "DemomanOnFire:1:7"
 	Response item_unicorn_on_fireDemoman
 }
